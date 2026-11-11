@@ -1,0 +1,19 @@
+{
+  "name": "linear-cli",
+  "description": "Manage Linear issues, projects, and teams via GraphQL and curl, without installing the SDK.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Manage Linear issues, projects, and teams via GraphQL and curl, without installing the SDK.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "linear-cli",
+      "source": "./plugins/linear-cli",
+      "description": "Manage Linear issues, projects, and teams via GraphQL and curl, without installing the SDK."
+    }
+  ]
+}
